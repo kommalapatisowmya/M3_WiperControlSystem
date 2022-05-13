@@ -56,20 +56,14 @@ Easy for the driver to control the ON and OFF the motor and control wiper system
 When we on the wiper switch it gets activated
 
 ## HIGH LEVEL REQUIREMENTS:
-|   ID  |                    Discription                   |    status   |
-|:-----:|:------------------------------------------------:|:-----------:|
-| HR_01 | Lock and Unlock of car                           | Implemented |
-| HR_02 | be able to ON the wipers and control their speed | Implemented |
-| HR_03 | Activating the Wiper System                      | Implemented |
-| HR_04 | Deactivating the Wiper System.                   | Implemented |
+|   ID  |            Discription            |    status   |
+|:-----:|:---------------------------------:|:-----------:|
+| HR_01 | It Shall LOCK the car             | Implemented |
+| HR_02 | It Shall UNLOCK the car           | Implemented |
+| HR_03 | It Shall Activate Wiper System    | Implemented |
+| HR_04 | It Shall Deactivate Wiper System. | Implemented |
 
 ## LOW LEVEL REQUIREMENTS:
-|   ID  |                          Discription                         |    status   |
-|:-----:|:------------------------------------------------------------:|:-----------:|
-| LR_01 | If the Button pressed ONCE - ON RED LED                      | Implemented |
-| LR_02 | If the Button pressed TWICE - OFF RED LED                    | Implemented |
-| LR_03 | If the Button pressed THRICE - ON BLUE,GREEN,ORANGE LEDs     | Implemented |
-| LR_04 | If the Button pressed FOUR times - ON ORANGE,GREEN,BLUE LEDs | Implemented |
 
 
 
