@@ -56,7 +56,12 @@ Easy for the driver to control the ON and OFF the motor and control wiper system
 When we on the wiper switch it gets activated
 
 ## HIGH LEVEL REQUIREMENTS:
-
+| ID    | Discription                       | status      |
+|-------|-----------------------------------|-------------|
+| HR_01 | It Shall LOCK the car             | Implemented |
+| HR_02 | It Shall UNLOCK the car           | Implemented |
+| HR_03 | It Shall Activate Wiper System    | Implemented |
+| HR_04 | It Shall Deactivate Wiper System. | Implemented |
 
 ## LOW LEVEL REQUIREMENTS:
 | Test ID | Description                | Exp i/P                    | Exp O/P                    | Actual o/p                                                | Pass/Fail |
