@@ -32,7 +32,7 @@ Accept that the car is the microcontroller. Assuming the button is hit, the prin
 ▪3 V and 5 V external application power supply
 
 ## SWOT ANALYSIS:
-168055063-47ab88cc-ac8f-4dbf-9985-a2b097a59848
+![168055063-47ab88cc-ac8f-4dbf-9985-a2b097a59848](https://user-images.githubusercontent.com/101501471/168239886-68d849b8-8fd7-4377-8a09-e9b989a5f89b.jpg)
 
 ## 5W's & 1H:
 5W   1H
