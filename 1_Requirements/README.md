@@ -64,6 +64,12 @@ When we on the wiper switch it gets activated
 | HR_04 | It Shall Deactivate Wiper System. | Implemented |
 
 ## LOW LEVEL REQUIREMENTS:
+|   ID  |                            Discription                            |    status   |
+|:-----:|:-----------------------------------------------------------------:|:-----------:|
+| LR_01 | If the User pressed the Button ONCE - ON LED RED                  | Implemented |
+| LR_02 | If the User pressed the Button TWICE - OFF LED RED                | Implemented |
+| LR_03 | If the User pressed the Button THREE times - ON BLUE,GREEN,ORANGE | Implemented |
+| LR_04 | If the User pressed the Button FOUR times - ON ORANGE,GREEN,BLUE. | Implemented |
 
 
 
