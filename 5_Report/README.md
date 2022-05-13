@@ -54,3 +54,14 @@ Easy for the driver to control the ON and OFF the motor and control wiper system
 
 ## HOW:
 When we on the wiper switch it gets activated
+
+## HIGH LEVEL REQUIREMENTS:
+
+
+## LOW LEVEL REQUIREMENTS:
+| Test ID | Description                | Exp i/P                    | Exp O/P                    | Actual o/p                                                | Pass/Fail |
+|---------|----------------------------|----------------------------|----------------------------|-----------------------------------------------------------|-----------|
+| LL_01   | ON Engine Check Condition  | Pressed BUTTON ONCE        | ON All LED                 | ON All LED As Per ENCRYPTION                              | PASS      |
+| LL_02   | OFF Engine Check Condition | Pressed BUTTON TWICE       | OFF All LED                | OFF All LED As Per ENCRYPTION                             | PASS      |
+| LL_03   | ON Wiper Check Condition   | Pressed BUTTON THREE Times | ON LED Once ClockWise      | ON LED Once In ClockWise Direction As Per ENCRYPTION      | PASS      |
+| LL_04   | OFF Wiper Check Condition  | Pressed BUTTON FOUR Times  | ON LED Once Anti ClockWise | ON LED Once In Anti ClockWise Direction As Per ENCRYPTION | PASS      |
