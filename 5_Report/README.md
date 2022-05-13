@@ -35,7 +35,7 @@ Accept that the car is the microcontroller. Assuming the button is hit, the prin
 ![168055063-47ab88cc-ac8f-4dbf-9985-a2b097a59848](https://user-images.githubusercontent.com/101501471/168239886-68d849b8-8fd7-4377-8a09-e9b989a5f89b.jpg)
 
 ## 5W's & 1H:
-5W   1H
+<img width="761" alt="5W   1H" src="https://user-images.githubusercontent.com/101501471/168241542-5f03bf50-3313-4637-a9b7-4593aa34e9f0.png">
 
 ## WHAT:
 Controlling the car wipers
